@@ -1,11 +1,8 @@
-Yesh Hextris
+Hextris
 ==========
 
-
-An addictive puzzle game inspired by Tetris. Play it at https://yeshwanthkm.github.io/Hextris/
-
 By:
-  Yeshwanth KM
+  Arsh Navada
   
 ## License
 Copyright (C) 2018 Yeshwanth KM
